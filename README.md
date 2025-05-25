@@ -31,12 +31,12 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abirhassan2&show_icons=true&theme=radical" alt="Abir's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirhassan2&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abir-software&show_icons=true&theme=radical" alt="Abir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir-software&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abirhassan2&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abir-software&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
