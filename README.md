@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-🔹 I'm a **Software Engineer** at [Daffodil Software Ltd](https://daffodilsoft.com/), passionate about software testing, automation, web development, and project management.
+🔹 I'm a **Software Engineer** at [Daffodil Software Ltd](https://daffodilsoft.com/) & [Daffodil Computers Ltd](https://daffodil-bd.com/), passionate about software testing, automation, web development, and project management.
 🔹 With over **3 years of cross-functional experience**, I bridge software engineering, business administration, and compliance.
 🔹 I love blending **technology + strategy** to ensure flawless software experiences and organizational growth.
 
@@ -26,7 +26,7 @@ Here are a few notable projects I've worked on:
 * **IUMS for Comilla University, BUTEX, Far-East University**
 * **ERP for Admission.ac & Daffodil Computers Ltd**
 * **Official Websites for Southeast University & Army IBA University**
-* **Bangladesh Skill Development Institute (BSDI)** — Performance, SEO & Security testing
+* **Bangladesh Skill Development Institute (BSDI) & Amar Pharma Ltd.** — Performance, Functional, Security testing & SEO
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abir-software&theme=rogue" />
