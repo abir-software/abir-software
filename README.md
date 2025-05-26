@@ -85,6 +85,13 @@ Here are a few notable projects I've worked on:
 * Advanced SQL and API Testing
 * Web Development Frameworks
 * Advanced Project Management
+* DevOps Practices and CI/CD Pipelines
+* Agile and Scrum Methodologies
+* Software Architecture & Documentation
+* Cloud Platforms (Azure, AWS basics)
+* UI/UX Principles for QA
+* WordPress Theme Customization
+* SEO Optimization Techniques
 
 ---
 
