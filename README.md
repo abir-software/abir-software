@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%F0%9F%92%BB;Web+Developer+%F0%9F%92%8E;Corporate+Administrator+%F0%9F%92%BC;Project+Management+Enthusiast+%F0%9F%93%96;AI+Tools+%26+Automation+Enthusiast&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+%F0%9F%92%BB;Software+Tester+%F0%9F%A7%AA;Website+Developer+%F0%9F%92%8E;Corporate+Administrator+%F0%9F%93%9C;Project+Management+Enthusiast+%F0%9F%93%96;AI+Tools+%26+Automation+Enthusiast&center=true&width=500&height=45" />
 </p>
 
 
