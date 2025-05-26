@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-🔹 I'm a **Software Quality Assurance Engineer** at [Daffodil Software Ltd](https://daffodilsoft.com/), passionate about software testing, automation, web development, and project management.
+🔹 I'm a **Software Engineer** at [Daffodil Software Ltd](https://daffodilsoft.com/), passionate about software testing, automation, web development, and project management.
 🔹 With over **3 years of cross-functional experience**, I bridge software engineering, business administration, and compliance.
 🔹 I love blending **technology + strategy** to ensure flawless software experiences and organizational growth.
 
