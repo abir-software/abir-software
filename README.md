@@ -42,11 +42,11 @@
 
 ---
 
-| 🧪 Testing Tools                  | 🎯 Project & Dev Tools                      | 🧠 AI, Analytics & Automation         | 🎨 Design & Presentation        |
-|----------------------------------|--------------------------------------------|--------------------------------------|--------------------------------|
-| JMeter, Selenium, Cypress        | Jira, Trello, GitHub, Git, MS 365, Odoo ERP| ChatGPT, Gemini AI, Google Analytics | Adobe Illustrator, Canva, Figma|
-| Postman, TestLink, Bugzilla      | Notion, Confluence, Slack, ClickUp         | Microsoft Copilot, Google Looker     | PowerPoint, Adobe XD, Photoshop|
-| Playwright, Katalon, TestRail    | Visual Studio Code, WordPress, Bootstrap   | AI-based Reporting Tools             | Google Slides, Prezi            |
+| 🧪 Testing Tools                  | 🎯 Project & Dev Tools                      | 🌐 Web Development Tools                | 🧠 AI, Analytics & Automation         | 🎨 Design & Presentation        |
+|----------------------------------|--------------------------------------------|-----------------------------------------|--------------------------------------|--------------------------------|
+| JMeter, Selenium, Cypress        | Jira, Trello, GitHub, Git, MS 365, Odoo ERP| HTML5, CSS3, JavaScript, WordPress      | ChatGPT, Gemini AI, Google Analytics | Adobe Illustrator, Canva, Figma|
+| Postman, TestLink, Bugzilla      | Notion, Confluence, Slack, ClickUp         | Bootstrap, Python, SQL, VS Code         | Microsoft Copilot, Google Looker     | PowerPoint, Adobe XD, Photoshop|
+| Playwright, Katalon, TestRail    | Visual Studio Code, XAMPP, FileZilla       | PHPMyAdmin, REST APIs, Responsive Design| AI-based Reporting Tools             | Google Slides, Prezi            |
 
 
 ---
