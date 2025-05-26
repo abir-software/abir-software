@@ -79,16 +79,13 @@ Here are a few notable projects I've worked on:
 
 ### 🚀 Currently Learning
 
-* Performance Testing Automation
+* Performance Testing & Automation
 * AI-driven QA Reporting
 * Cybersecurity and Penetration Testing
-* Advanced SQL and API Testing
 * Web Development Frameworks
 * Advanced Project Management
-* DevOps Practices and CI/CD Pipelines
 * Agile and Scrum Methodologies
-* Software Architecture & Documentation
-* Cloud Platforms (Azure, AWS basics)
+* Software Architecture & ISO Documentation
 * UI/UX Principles for QA
 * WordPress Theme Customization
 * SEO Optimization Techniques
