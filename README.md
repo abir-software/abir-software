@@ -1,24 +1,36 @@
-
 <!-- GitHub Profile README.md -->
 
 <h1 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft/310/waving-hand_1f44b.png" width="35px" /> 
+  <img src="https://em-content.zobj.net/source/microsoft/310/waving-hand_1f44b.png" width="35px" />
   <span style="color: #6C63FF; font-weight: bold;">Hey there, I'm Md Abir Hassan</span>
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76900&center=true&vCenter=true&width=500&lines=💻+Software+Engineer;🧪+Software+Tester;💎+Website+Developer;📜+Corporate+Administrator;📖+Project+Management+Enthusiast;🤖+AI+Tools+%26+Automation+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76900&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Software+Engineer;%F0%9F%A7%AA+Software+Tester;%F0%9F%92%8E+Website+Developer;%F0%9F%93%9C+Corporate+Administrator;%F0%9F%93%96+Project+Management+Enthusiast;%F0%9F%A4%96+AI+Tools+%26+Automation+Enthusiast" />
 </h3>
-
-
 
 ---
 
 ### 🧑‍💻 About Me
 
-🔹 I'm a **Software Quality Assurance Engineer** at [Daffodil Software Ltd](https://daffodilsoft.com/), passionate about software testing, automation, Web development, and project management .  
-🔹 With over **3 years of cross-functional experience**, I bridge software engineering, business administration, and compliance.  
+🔹 I'm a **Software Quality Assurance Engineer** at [Daffodil Software Ltd](https://daffodilsoft.com/), passionate about software testing, automation, web development, and project management.
+🔹 With over **3 years of cross-functional experience**, I bridge software engineering, business administration, and compliance.
 🔹 I love blending **technology + strategy** to ensure flawless software experiences and organizational growth.
+
+---
+
+### 🧠 My Projects & Contributions
+
+Here are a few notable projects I've worked on:
+
+* **IUMS for Comilla University, BUTEX, Far-East University**
+* **ERP for Admission.ac & Daffodil Computers Ltd**
+* **Official Websites for Southeast University & Army IBA University**
+* **Bangladesh Skill Development Institute (BSDI)** — Performance, SEO & Security testing
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abir-software&theme=rogue" />
+</p>
 
 ---
 
@@ -44,12 +56,13 @@
 
 ---
 
-| 🧪 Testing Tools                  | 🎯 Project & Dev Tools                      | 🌐 Web Development Tools                | 🧠 AI, Analytics & Automation         | 🎨 Design & Presentation        |
-|----------------------------------|--------------------------------------------|-----------------------------------------|--------------------------------------|--------------------------------|
-| JMeter, Selenium, Cypress        | Jira, Trello, GitHub, Git, MS 365, Odoo ERP| HTML5, CSS3, JavaScript, WordPress      | ChatGPT, Gemini AI, Google Analytics | Adobe Illustrator, Canva, Figma|
-| Postman, TestLink, Bugzilla      | Notion, Confluence, Slack, ClickUp         | Bootstrap, Python, SQL, VS Code         | Microsoft Copilot, Google Looker     | PowerPoint, Adobe XD, Photoshop|
-| Playwright, Katalon, TestRail    | Visual Studio Code, XAMPP, FileZilla       | PHPMyAdmin, REST APIs, Responsive Design| AI-based Reporting Tools             | Google Slides, Prezi            |
+### 🔧 Tools I Use
 
+| 🧪 Testing Tools              | 🎯 Project & Dev Tools                      | 🌐 Web Development Tools                 | 🧠 AI, Analytics & Automation        | 🎨 Design & Presentation        |
+| ----------------------------- | ------------------------------------------- | ---------------------------------------- | ------------------------------------ | ------------------------------- |
+| JMeter, Selenium, Cypress     | Jira, Trello, GitHub, Git, MS 365, Odoo ERP | HTML5, CSS3, JavaScript, WordPress       | ChatGPT, Gemini AI, Google Analytics | Adobe Illustrator, Canva, Figma |
+| Postman, TestLink, Bugzilla   | Notion, Confluence, Slack, ClickUp          | Bootstrap, Python, SQL, VS Code          | Microsoft Copilot, Google Looker     | PowerPoint, Adobe XD, Photoshop |
+| Playwright, Katalon, TestRail | Visual Studio Code, XAMPP, FileZilla        | PHPMyAdmin, REST APIs, Responsive Design | AI-based Reporting Tools             | Google Slides, Prezi            |
 
 ---
 
@@ -66,12 +79,12 @@
 
 ### 🚀 Currently Learning
 
-- Performance testing automation
-- AI-driven QA reporting
-- Cybersecurity and penetration testing
-- Advanced SQL and API Testing
-- Web Development
-- Project Management
+* Performance Testing Automation
+* AI-driven QA Reporting
+* Cybersecurity and Penetration Testing
+* Advanced SQL and API Testing
+* Web Development Frameworks
+* Advanced Project Management
 
 ---
 
@@ -87,3 +100,4 @@
 
 ---
 
+> Thank you for visiting my profile ✨ Let's build something impactful together!
