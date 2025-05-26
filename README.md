@@ -42,11 +42,12 @@
 
 ---
 
-### 🛠 Tools I Use
+| 🧪 Testing Tools                  | 🎯 Project & Dev Tools                      | 🧠 AI, Analytics & Automation         | 🎨 Design & Presentation        |
+|----------------------------------|--------------------------------------------|--------------------------------------|--------------------------------|
+| JMeter, Selenium, Cypress        | Jira, Trello, GitHub, Git, MS 365, Odoo ERP| ChatGPT, Gemini AI, Google Analytics | Adobe Illustrator, Canva, Figma|
+| Postman, TestLink, Bugzilla      | Notion, Confluence, Slack, ClickUp         | Microsoft Copilot, Google Looker     | PowerPoint, Adobe XD, Photoshop|
+| Playwright, Katalon, TestRail    | Visual Studio Code, WordPress, Bootstrap   | AI-based Reporting Tools             | Google Slides, Prezi            |
 
-| 🧪 Testing Tools       | 🎯 Project Tools           | 🧠 AI & Analytics       |
-|------------------------|---------------------------|--------------------------|
-| JMeter, Selenium, Cypress | Jira, Bugzilla, MS 365, Odoo ERP | ChatGPT, Google Analytics, Gemini AI |
 
 ---
 
@@ -55,6 +56,7 @@
 <p align="center">
   <a href="mailto:mdabirhassan2@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/abirhassan2"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/abirhassan2"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://wa.me/8801950191090"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
@@ -66,6 +68,8 @@
 - AI-driven QA reporting
 - Cybersecurity and penetration testing
 - Advanced SQL and API Testing
+- Web Development
+- Project Management
 
 ---
 
@@ -81,8 +85,3 @@
 
 ---
 
-### 🎨 Bonus Visual (Optional 3D Concept)
-
-> You can add this 3D avatar/banner if you host one:
-```md
-<img src="https://your-host.com/animated-3d-profile.gif" alt="3D Profile Banner" />
