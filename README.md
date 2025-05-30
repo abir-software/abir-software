@@ -60,7 +60,7 @@ Here are a few notable projects I've worked on:
 
 | 🧪 Testing Tools              | 🎯 Project & Dev Tools                      | 🌐 Web Development Tools                 | 🧠 AI, Analytics & Automation        | 🎨 Design & Presentation        |
 | ----------------------------- | ------------------------------------------- | ---------------------------------------- | ------------------------------------ | ------------------------------- |
-| JMeter, Selenium, Cypress     | Jira, Trello, GitHub, Git, MS 365, Odoo ERP | HTML5, CSS3, JavaScript, WordPress       | ChatGPT, Gemini AI, Google Analytics | Adobe Illustrator, Canva, Figma |
+| JMeter, Selenium, Cypress     | Jira, Trello, GitHub, Git, MS 365, Odoo ERP | HTML5, CSS3, JavaScript, WordPress,Bootstrap       | ChatGPT, Gemini AI, Google Analytics | Adobe Illustrator, Canva, Figma |
 | Postman, TestLink, Bugzilla   | Notion, Confluence, Slack, ClickUp          | Bootstrap, Python, SQL, VS Code          | Microsoft Copilot, Google Looker     | PowerPoint, Adobe XD, Photoshop |
 | Playwright, Katalon, TestRail | Visual Studio Code, XAMPP, FileZilla        | PHPMyAdmin, REST APIs, Responsive Design | AI-based Reporting Tools             | Google Slides, Prezi            |
 
