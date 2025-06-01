@@ -23,9 +23,9 @@
 
 Here are a few notable projects I've worked on:
 
-* **IUMS for Comilla University, BUTEX, Far-East University**
+* **IUMS for Comilla University, BUTEX, Far-East University** — Performance, Functional
 * **ERP for Admission.ac & Daffodil Computers Ltd**
-* **Official Websites for Southeast University & Army IBA University**
+* **Official Websites for Southeast University & Army IBA University** — Performance, Functional
 * **Bangladesh Skill Development Institute (BSDI) & Amar Pharma Ltd.** — Performance, Functional, Security testing & SEO
 
 <p align="center">
