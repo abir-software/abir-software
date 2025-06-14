@@ -14,7 +14,7 @@
 ### 🧑‍💻 About Me
 
 🔹 I'm a **Software Engineer** at [Daffodil Software Ltd](https://daffodilsoft.com/) & [Daffodil Computers Ltd](https://daffodil-bd.com/), passionate about software testing, automation, web development, and project management.
-🔹 With over **3 years of cross-functional experience**, I bridge software engineering, administration, and compliance.
+🔹 With over **3 years of cross-functional experience**, I bridge Software engineering, administration, and compliance.
 🔹 I love blending **technology + strategy** to ensure flawless software experiences and organizational growth.
 
 ---
