@@ -86,7 +86,7 @@ Here are a few notable projects I've worked on:
 * Advanced Project Management
 * Agile and Scrum Methodologies
 * Software Architecture & ISO Documentation
-* UI/UX Principles for QA
+* UI/UX Principles for QA 
 * WordPress Theme Customization
 * SEO Optimization Techniques
 
