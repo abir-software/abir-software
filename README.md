@@ -53,6 +53,11 @@ Here are a few notable projects I've worked on:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abir-software&theme=radical" alt="GitHub Streak Stats" />
 </p>
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abir-software&theme=radical&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
