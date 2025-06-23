@@ -58,7 +58,11 @@ Here are a few notable projects I've worked on:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abir-software&theme=radical&no-frame=true&margin-w=15" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abir-software&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/abir-software?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/abir-software/abir-software?style=social" alt="GitHub Stars"/>
+</p>
 ---
 
 ### 🔧 Tools I Use
