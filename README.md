@@ -63,7 +63,6 @@ Here are a few notable projects I've worked on:
   <img src="https://img.shields.io/github/followers/abir-software?label=Followers&style=social" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/abir-software/abir-software?style=social" alt="GitHub Stars"/>
 </p>
----
 
 ### 🔧 Tools I Use
 
