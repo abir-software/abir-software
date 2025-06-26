@@ -113,4 +113,12 @@ Here are a few notable projects I've worked on:
 
 ---
 
-> Thank you for visiting my profile ✨ Let's build something impactful together!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Thank+You+for+visiting+my+profile!;Let's+create+impactful+software+together!+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abir-software&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/abir-software?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/abir-software?style=social" alt="GitHub Stars"/>
+</p>
